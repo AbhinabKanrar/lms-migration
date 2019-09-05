@@ -1,0 +1,12 @@
+{
+	"definition": {
+		"interactionType": "VIDEO",
+		"businessType" : "HOTEL",
+		"lang": "en",
+		"name": "My Video 2",
+		"description": "My Video desc",
+		"tags" : [],
+		"keywords" : [],
+		"context": []
+	}
+}
